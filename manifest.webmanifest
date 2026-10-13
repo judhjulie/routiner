@@ -1,0 +1,17 @@
+{
+  "name": "루티너 Routiner",
+  "short_name": "루티너",
+  "description": "루틴을 정하고 매일 체크하는 습관 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F8FC",
+  "theme_color": "#0A7BC2",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
